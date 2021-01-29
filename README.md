@@ -19,7 +19,7 @@ Documentation
 * **[Library](https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library)**&ast; - Arduino library for ublox GPS modules
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-gps-clock)** - Basic project guide
  
-**&ast;Note: At the time of writing, the example code used Ublox Arduino Library. The library has been depreciated. The example code is still functional, however it is recommended to use a microcontroller with a larger memory if you decide to use the latest [SparkFun u-blox GNSS Arduino Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library). Make sure to [follow the steps to migrate when using the latest library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library#migrating-to-v20).**
+*&ast;Note: At the time of writing, the example code used Ublox Arduino Library v1.8.5. The library has been depreciated. The example code is still functional, however it is recommended to use a microcontroller with a larger memory if you decide to use the latest [SparkFun u-blox GNSS Arduino Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library). Make sure to [follow the steps to migrate when using the latest library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library#migrating-to-v20).*
   
 License Information
 -------------------
